@@ -5,5 +5,8 @@
     "webapp",
     "infrastructure",
     "services/*"
-  ]
+  ],
+  "dependencies": {
+    "aws-cdk-lib": "^2.47.0"
+  }
 }
